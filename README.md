@@ -1,0 +1,1 @@
+# Code for the analysis of Titanic data from Kaggle
